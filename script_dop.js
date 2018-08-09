@@ -7,4 +7,4 @@
 	}
 	
 	console.log(comp);
-	alert( Math.pow(comp, 3).toString().substring(0, 2));
+	alert( Math.pow(comp, 3).toString().substring(0, 2) );
